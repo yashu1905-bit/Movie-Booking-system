@@ -108,11 +108,23 @@ Example:
 
 Contributions are welcome!
 
-Fork the repository
-Create a new branch
-Commit your changes
-Push to your branch
-Open a Pull Request
-📄 License
+//Screenshots
+<img width="1428" height="906" alt="Screenshot 2026-05-20 115826" src="https://github.com/user-attachments/assets/6778d3c0-a93e-4c43-ba38-d0b8725b2e2c" />
+<img width="1417" height="896" alt="Screenshot 2026-05-20 115737" src="https://github.com/user-attachments/assets/24f9547c-22d0-48a9-9818-4e02c06e9970" />
+<img width="1412" height="923" alt="Screenshot 2026-05-20 115638" src="https://github.com/user-attachments/assets/7023b2bb-a7fc-43ee-abbc-456c571915c9" />
+<img width="1412" height="778" alt="Screenshot 2026-05-20 115532" src="https://github.com/user-attachments/assets/846409cb-009b-4b86-97d4-b76f2b2ada8a" />
+<img width="1422" height="890" alt="Screenshot 2026-05-20 115034" src="https://github.com/user-attachments/assets/c2902033-080e-463c-bb58-45ab80ce6a9c" />
+<img width="1920" height="1080" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/b4670d6c-4493-427f-a7ff-0d72ee6d62e6" />
+<img width="1920" height="1080" alt="Screenshot (422)" src="https://github.com/user-attachments/assets/c3e93242-d490-4ad0-8fe1-168b488a7140" />
+<img width="1920" height="1080" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/dd727cd4-6dc7-4f25-8c4b-e09b95e637b5" />
+<img width="1920" height="1080" alt="Screenshot (420)" src="https://github.com/user-attachments/assets/ee0544a8-2b2b-48c6-bce7-dcc5c1e267b5" />
+<img width="1920" height="1080" alt="Screenshot (419)" src="https://github.com/user-attachments/assets/1da227c8-ee46-43e9-afda-76f6e624e00d" />
 
-This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
