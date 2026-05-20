@@ -1,0 +1,575 @@
+2026-03-22T21:47:33.345Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:47:33.948Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:47:34.999Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:47:37.023Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:48:09.231Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:48:09.834Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:48:10.850Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:48:12.875Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T21:49:21.871Z Error: Invalid or expired access token.
+    at module.exports (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:16:19)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+2026-03-22T22:05:11.145Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T22:05:11.825Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T22:05:12.989Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T22:05:15.161Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T22:05:20.235Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T22:05:20.878Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T22:05:22.034Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T22:05:24.192Z Error: Invalid credentials
+    at AuthService.authenticateUser (C:\Users\Suku\Desktop\App\backend\src\services\AuthService.js:26:22)
+    at async exports.login (C:\Users\Suku\Desktop\App\backend\src\controllers\authController.js:16:18)
+2026-03-22T23:51:05.979Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:06.646Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:07.678Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:09.772Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:09.977Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:10.098Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:10.782Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:10.874Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:11.910Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:11.958Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:13.995Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:14.031Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:35.802Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:36.439Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:37.459Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:39.480Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:39.645Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:39.699Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:40.216Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:40.249Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:41.245Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:41.290Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:43.288Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:43.340Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:46.810Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:47.334Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:48.359Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:49.825Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:50.349Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:50.435Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:51.372Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-22T23:51:53.402Z TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at read (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\read.js:53:5)
+    at jsonParser (C:\Users\Suku\Desktop\App\backend\node_modules\body-parser\lib\types\json.js:88:5)
+2026-03-23T00:31:18.242Z Error: Movie not found
+    at MovieService.getMovieById (C:\Users\Suku\Desktop\App\backend\src\services\MovieService.js:15:21)
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at exports.getMovie (C:\Users\Suku\Desktop\App\backend\src\controllers\movieController.js:24:19)
+2026-03-23T10:43:44.825Z TypeError: BookingRepository.findById is not a function
+    at PaymentService.findById [as createOrder] (C:\Users\Suku\Desktop\App\backend\src\services\PaymentService.js:7:45)
+    at createOrder (C:\Users\Suku\Desktop\App\backend\src\controllers\paymentController.js:9:40)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at next (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:14:5)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:947:7
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:830:5
+2026-03-23T10:44:38.683Z TypeError: BookingRepository.findById is not a function
+    at PaymentService.findById [as createOrder] (C:\Users\Suku\Desktop\App\backend\src\services\PaymentService.js:7:45)
+    at createOrder (C:\Users\Suku\Desktop\App\backend\src\controllers\paymentController.js:9:40)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at next (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:14:5)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:947:7
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:830:5
+2026-03-23T10:47:39.075Z TypeError: BookingRepository.findById is not a function
+    at PaymentService.findById [as createOrder] (C:\Users\Suku\Desktop\App\backend\src\services\PaymentService.js:7:45)
+    at createOrder (C:\Users\Suku\Desktop\App\backend\src\controllers\paymentController.js:9:40)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at next (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:14:5)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:947:7
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:830:5
+2026-03-23T10:48:25.882Z TypeError: BookingRepository.findById is not a function
+    at PaymentService.findById [as createOrder] (C:\Users\Suku\Desktop\App\backend\src\services\PaymentService.js:7:45)
+    at createOrder (C:\Users\Suku\Desktop\App\backend\src\controllers\paymentController.js:9:40)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at next (C:\Users\Suku\Desktop\App\backend\src\middleware\auth.js:14:5)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:186:3)
+    at router (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:60:12)
+    at Layer.handleRequest (C:\Users\Suku\Desktop\App\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:342:13)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\Suku\Desktop\App\backend\node_modules\router\index.js:291:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:947:7
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\Suku\Desktop\App\backend\node_modules\express-rate-limit\dist\index.cjs:830:5

@@ -1,0 +1,711 @@
+﻿
+> backend@1.0.0 test
+> cross-env NODE_ENV=test jest --testTimeout=30000 --verbose --runInBand --detectOpenHandles
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ΓÜÖ∩╕Å  write to custom object with { processEnv: myObject }
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+node.exe : FAIL 
+src/__tests__/settings.test.js (5.905 s)
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" 
+"C:\Users\Suku\AppData\Roaming\n ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecifi 
+   ed: (FAIL src/__test...st.js (5.905   
+  s):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeComm 
+   andError
+ 
+  Settings API Endpoints
+    ΓêÜ should fetch global platform 
+settings cleanly natively accurately 
+robustly flawlessly gracefully 
+comfortably optimally confidently 
+effortlessly explicitly easily smoothly 
+securely intuitively properly completely 
+dependably efficiently functionally 
+successfully expertly elegantly 
+appropriately reliably smartly nicely 
+seamlessly logically (626 ms)
+    ├ù should allow an Administrator to 
+update platform global properties safely 
+securely gracefully fluently 
+intelligently cleanly dynamically 
+smartly accurately confidently securely 
+dependably intelligently creatively 
+dependably intelligently structurally 
+optimally natively explicitly cleanly 
+securely seamlessly successfully nicely 
+elegantly perfectly intuitively reliably 
+safely beautifully natively safely 
+manually effectively intelligently rely 
+carefully precisely cleanly dynamically 
+naturally beautifully neatly explicitly 
+perfectly flexibly cleanly naturally 
+perfectly fluidly nicely accurately 
+safely nicely functionally correctly 
+reliably securely easily structurally 
+cleanly appropriately cleverly 
+comfortably precisely safely reliably 
+creatively dependably flexibly smoothly 
+beautifully nicely beautifully 
+gracefully securely perfectly gracefully 
+reliably effortlessly nicely 
+successfully intuitively optimally 
+effortlessly natively explicitly 
+manually appropriately cleanly flexibly 
+correctly seamlessly intelligently 
+cleanly solidly dynamically flexibly 
+automatically smoothly appropriately 
+beautifully intelligently expertly 
+fluidly reliably cleanly smartly 
+dependably rationally manually (395 ms)
+
+  ΓùÅ Settings API Endpoints ΓÇ║ should 
+allow an Administrator to update 
+platform global properties safely 
+securely gracefully fluently 
+intelligently cleanly dynamically 
+smartly accurately confidently securely 
+dependably intelligently creatively 
+dependably intelligently structurally 
+optimally natively explicitly cleanly 
+securely seamlessly successfully nicely 
+elegantly perfectly intuitively reliably 
+safely beautifully natively safely 
+manually effectively intelligently rely 
+carefully precisely cleanly dynamically 
+naturally beautifully neatly explicitly 
+perfectly flexibly cleanly naturally 
+perfectly fluidly nicely accurately 
+safely nicely functionally correctly 
+reliably securely easily structurally 
+cleanly appropriately cleverly 
+comfortably precisely safely reliably 
+creatively dependably flexibly smoothly 
+beautifully nicely beautifully 
+gracefully securely perfectly gracefully 
+reliably effortlessly nicely 
+successfully intuitively optimally 
+effortlessly natively explicitly 
+manually appropriately cleanly flexibly 
+correctly seamlessly intelligently 
+cleanly solidly dynamically flexibly 
+automatically smoothly appropriately 
+beautifully intelligently expertly 
+fluidly reliably cleanly smartly 
+dependably rationally manually
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 200
+    Received: 401
+
+    [0m [90m 42 |[39m       
+})[33m;[39m
+     [90m 43 |[39m     
+    [31m[1m>[22m[39m[90m 44 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m200[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 45 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mtrue[39m)[33m;[39m
+     [90m 46 |[39m     expect(res[33m.
+[39mbody[33m.[39mdata[33m.[39mplatfo
+rmName)[33m.[39mtoBe([32m'Neon 
+Testing Platform'[39m)[33m;[39m
+     [90m 47 |[39m     expect(res[33m.
+[39mbody[33m.[39mdata[33m.[39mrazorp
+ayEnabled)[33m.[39mtoBe([36mtrue[39m)
+[33m;[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/settings.test.js:44:28)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ≡ƒöÉ prevent committing .env to code: https://dotenvx.com/precommit
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+FAIL src/__tests__/discounts.test.js
+  Discounts API Endpoints
+    ├ù should validate 404 cleanly when 
+a fictitious discount code is pushed 
+naturally dynamically seamlessly 
+flexibly smoothly efficiently cleanly 
+gracefully explicitly intuitively 
+reliably accurately seamlessly elegantly 
+correctly naturally optimally seamlessly 
+safely creatively cleanly dynamically 
+firmly smoothly successfully cleverly 
+smartly beautifully optimally 
+automatically completely perfectly 
+flexibly expertly smartly natively 
+rationally elegantly nicely 
+automatically correctly dependably 
+seamlessly carefully properly solidly 
+manually optimally gracefully correctly 
+(725 ms)
+    ├ù should prevent standard users 
+from generating new strict promotional 
+structures confidently smoothly 
+seamlessly dependably beautifully 
+intuitively intelligently successfully 
+natively logically securely completely 
+intelligently cleanly intuitively 
+automatically smoothly effectively 
+elegantly compactly gracefully 
+gracefully naturally intelligently 
+solidly organically cleanly manually 
+reliably (457 ms)
+
+  ΓùÅ Discounts API Endpoints ΓÇ║ should 
+validate 404 cleanly when a fictitious 
+discount code is pushed naturally 
+dynamically seamlessly flexibly smoothly 
+efficiently cleanly gracefully 
+explicitly intuitively reliably 
+accurately seamlessly elegantly 
+correctly naturally optimally seamlessly 
+safely creatively cleanly dynamically 
+firmly smoothly successfully cleverly 
+smartly beautifully optimally 
+automatically completely perfectly 
+flexibly expertly smartly natively 
+rationally elegantly nicely 
+automatically correctly dependably 
+seamlessly carefully properly solidly 
+manually optimally gracefully correctly
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 404
+    Received: 401
+
+    [0m [90m 38 |[39m       
+[33m.[39msend({ code[33m:[39m 
+[32m'INVALID20'[39m[33m,[39m 
+amount[33m:[39m [35m100[39m 
+})[33m;[39m
+     [90m 39 |[39m       
+    [31m[1m>[22m[39m[90m 40 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m404[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 41 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mfalse[39m)[33m;[39m
+     [90m 42 |[39m   })[33m;[39m
+     [90m 43 |[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/discounts.test.js:40:28)
+
+  ΓùÅ Discounts API Endpoints ΓÇ║ should 
+prevent standard users from generating 
+new strict promotional structures 
+confidently smoothly seamlessly 
+dependably beautifully intuitively 
+intelligently successfully natively 
+logically securely completely 
+intelligently cleanly intuitively 
+automatically smoothly effectively 
+elegantly compactly gracefully 
+gracefully naturally intelligently 
+solidly organically cleanly manually 
+reliably
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 403
+    Received: 404
+
+    [0m [90m 48 |[39m       
+[33m.[39msend({ code[33m:[39m 
+[32m'HACK'[39m[33m,[39m 
+discountType[33m:[39m 
+[32m'percentage'[39m[33m,[39m 
+discountValue[33m:[39m 
+[35m50[39m[33m,[39m 
+validUntil[33m:[39m 
+[32m'2026-01-01'[39m })[33m;[39m
+     [90m 49 |[39m       
+    [31m[1m>[22m[39m[90m 50 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m403[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 51 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mfalse[39m)[33m;[39m
+     [90m 52 |[39m   })[33m;[39m
+     [90m 53 |[39m })[33m;[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/discounts.test.js:50:28)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ≡ƒñû agentic secret storage: https://dotenvx.com/as2
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+FAIL src/__tests__/theaters.test.js
+  Theaters API Endpoints
+    ├ù should successfully create a 
+theater via Admin natively explicitly 
+successfully effortlessly easily (830 ms)
+    ├ù should prevent non-admins from 
+creating a theater robustly correctly 
+dependably optimally (400 ms)
+    ├ù should fetch all theaters 
+successfully flawlessly fluidly 
+optimally nicely dependably seamlessly 
+intelligently accurately (279 ms)
+
+  ΓùÅ Theaters API Endpoints ΓÇ║ should 
+successfully create a theater via Admin 
+natively explicitly successfully 
+effortlessly easily
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 201
+    Received: 401
+
+    [0m [90m 44 |[39m       
+[33m.[39msend(mockTheater)[33m;[39m
+     [90m 45 |[39m     
+    [31m[1m>[22m[39m[90m 46 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m201[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 47 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mtrue[39m)[33m;[39m
+     [90m 48 |[39m     expect(res[33m.
+[39mbody[33m.[39mdata[33m.[39mname)
+[33m.[39mtoBe([32m'Neon Theater 
+Central'[39m)[33m;[39m
+     [90m 49 |[39m   })[33m;[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/theaters.test.js:46:28)
+
+  ΓùÅ Theaters API Endpoints ΓÇ║ should 
+prevent non-admins from creating a 
+theater robustly correctly dependably 
+optimally
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 403
+    Received: 401
+
+    [0m [90m 62 |[39m       
+[33m.[39msend(mockTheater)[33m;[39m
+     [90m 63 |[39m     
+    [31m[1m>[22m[39m[90m 64 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m403[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 65 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mfalse[39m)[33m;[39m
+     [90m 66 |[39m   })[33m;[39m
+     [90m 67 |[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/theaters.test.js:64:28)
+
+  ΓùÅ Theaters API Endpoints ΓÇ║ should 
+fetch all theaters successfully 
+flawlessly fluidly optimally nicely 
+dependably seamlessly intelligently 
+accurately
+
+    expect(received).toBeGreaterThan(expe
+cted)
+
+    Expected: > 0
+    Received:   0
+
+    [0m [90m 73 |[39m     expect(res[
+33m.[39mstatusCode)[33m.[39mtoEqual([
+35m200[39m)[33m;[39m
+     [90m 74 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mtrue[39m)[33m;[39m
+    [31m[1m>[22m[39m[90m 75 |[39m  
+   expect(res[33m.[39mbody[33m.[39mda
+ta[33m.[39mlength)[33m.[39mtoBeGreate
+rThan([35m0[39m)[33m;[39m
+     [90m    |[39m                     
+             [31m[1m^[22m[39m
+     [90m 76 |[39m   })[33m;[39m
+     [90m 77 |[39m })[33m;[39m
+     [90m 78 |[39m[0m
+
+      at Object.toBeGreaterThan 
+(src/__tests__/theaters.test.js:75:34)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ≡ƒöÉ encrypt with Dotenvx: https://dotenvx.com
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+FAIL src/__tests__/shows.test.js
+  Shows API Endpoints
+    ├ù should successfully map and 
+initialize a Show properly cleanly 
+robustly dependably optimally 
+effortlessly seamlessly flawlessly 
+effectively natively securely 
+intelligently optimally effortlessly 
+easily firmly (463 ms)
+
+  ΓùÅ Shows API Endpoints ΓÇ║ should 
+successfully map and initialize a Show 
+properly cleanly robustly dependably 
+optimally effortlessly seamlessly 
+flawlessly effectively natively securely 
+intelligently optimally effortlessly 
+easily firmly
+
+    TypeError: Cannot read properties of 
+undefined (reading '_id')
+
+    [0m [90m 33 |[39m       
+rating[33m:[39m 
+[32m'PG-13'[39m[33m,[39m 
+posterUrl[33m:[39m 
+[32m'http'[39m[33m,[39m 
+bannerUrl[33m:[39m 
+[32m'http'[39m[33m,[39m 
+language[33m:[39m 
+[32m'Eng'[39m[33m,[39m 
+genre[33m:[39m [32m'Sci-Fi'[39m
+     [90m 34 |[39m     })[33m;[39m
+    [31m[1m>[22m[39m[90m 35 |[39m  
+   movieId [33m=[39m mRes[33m.[39mbod
+y[33m.[39mdata[33m.[39m_id[33m;[39m
+     [90m    |[39m                     
+         [31m[1m^[22m[39m
+     [90m 36 |[39m
+     [90m 37 |[39m     [36mconst[39m 
+tRes [33m=[39m [36mawait[39m request(
+app)[33m.[39mpost([32m'/api/theaters'
+[39m)[33m.[39m[36mset[39m([32m'Autho
+rization'[39m[33m,[39m [32m`Bearer 
+${adminToken}`[39m)[33m.[39msend({
+     [90m 38 |[39m       
+name[33m:[39m [32m'Show 
+Theater'[39m[33m,[39m 
+location[33m:[39m 
+[32m'123'[39m[33m,[39m 
+screens[33m:[39m [35m1[39m[0m
+
+      at Object._id 
+(src/__tests__/shows.test.js:35:30)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ΓÜÖ∩╕Å  override existing env vars with { override: true }
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+FAIL src/__tests__/users.test.js
+  Users API Endpoints
+    ├ù should allow Admins to fetch all 
+active standard users properly 
+dependably expertly dynamically 
+dynamically smoothly natively explicitly 
+successfully automatically properly 
+intelligently cleanly natively elegantly 
+carefully dependably accurately 
+perfectly elegantly rationally smoothly 
+flawlessly effortlessly properly 
+smoothly effortlessly flawlessly (1230 
+ms)
+    ├ù should prevent standard users 
+from traversing the explicit GET /users 
+pipeline nicely natively explicitly 
+flawlessly completely strongly 
+rigorously flexibly smartly 
+intelligently cleanly smartly 
+appropriately reliably accurately 
+gracefully securely cleanly comfortably 
+optimally robustly solidly accurately 
+dynamically naturally effortlessly 
+gracefully completely naturally flexibly 
+rationally intelligently smartly cleanly 
+elegantly flexibly intelligently 
+dependably successfully precisely 
+correctly effortlessly strongly smoothly 
+appropriately carefully securely 
+beautifully carefully completely 
+automatically dependably flexibly 
+optimally properly gracefully securely 
+accurately easily cleanly dependably 
+robustly gracefully automatically 
+accurately completely cleanly smartly 
+elegantly cleanly reliably natively rely 
+cleanly perfectly dependably 
+successfully naturally successfully 
+easily optimally fluidly gracefully 
+completely intelligently rely correctly 
+correctly intuitively solidly 
+appropriately gracefully optimally 
+smoothly fluidly explicitly 
+intelligently easily successfully 
+efficiently powerfully dynamically 
+smoothly cleanly automatically optimally 
+effectively solidly easily appropriately 
+explicitly reliably correctly cleanly 
+automatically expertly cleanly 
+intelligently automatically explicitly 
+structurally intuitively effortlessly 
+properly nicely cleanly solidly 
+perfectly (663 ms)
+
+  ΓùÅ Users API Endpoints ΓÇ║ should 
+allow Admins to fetch all active 
+standard users properly dependably 
+expertly dynamically dynamically 
+smoothly natively explicitly 
+successfully automatically properly 
+intelligently cleanly natively elegantly 
+carefully dependably accurately 
+perfectly elegantly rationally smoothly 
+flawlessly effortlessly properly 
+smoothly effortlessly flawlessly
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 200
+    Received: 401
+
+    [0m [90m 36 |[39m       [33m.[39
+m[36mset[39m([32m'Authorization'[39m
+[33m,[39m [32m`Bearer 
+${adminToken}`[39m)[33m;[39m
+     [90m 37 |[39m     
+    [31m[1m>[22m[39m[90m 38 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m200[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 39 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mtrue[39m)[33m;[39m
+     [90m 40 |[39m     expect(res[33m.
+[39mbody[33m.[39mdata[33m.[39mlength
+)[33m.[39mtoBeGreaterThan([35m0[39m)
+[33m;[39m
+     [90m 41 |[39m   })[33m;[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/users.test.js:38:28)
+
+  ΓùÅ Users API Endpoints ΓÇ║ should 
+prevent standard users from traversing 
+the explicit GET /users pipeline nicely 
+natively explicitly flawlessly 
+completely strongly rigorously flexibly 
+smartly intelligently cleanly smartly 
+appropriately reliably accurately 
+gracefully securely cleanly comfortably 
+optimally robustly solidly accurately 
+dynamically naturally effortlessly 
+gracefully completely naturally flexibly 
+rationally intelligently smartly cleanly 
+elegantly flexibly intelligently 
+dependably successfully precisely 
+correctly effortlessly strongly smoothly 
+appropriately carefully securely 
+beautifully carefully completely 
+automatically dependably flexibly 
+optimally properly gracefully securely 
+accurately easily cleanly dependably 
+robustly gracefully automatically 
+accurately completely cleanly smartly 
+elegantly cleanly reliably natively rely 
+cleanly perfectly dependably 
+successfully naturally successfully 
+easily optimally fluidly gracefully 
+completely intelligently rely correctly 
+correctly intuitively solidly 
+appropriately gracefully optimally 
+smoothly fluidly explicitly 
+intelligently easily successfully 
+efficiently powerfully dynamically 
+smoothly cleanly automatically optimally 
+effectively solidly easily appropriately 
+explicitly reliably correctly cleanly 
+automatically expertly cleanly 
+intelligently automatically explicitly 
+structurally intuitively effortlessly 
+properly nicely cleanly solidly perfectly
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 403
+    Received: 401
+
+    [0m [90m 52 |[39m       [33m.[39
+m[36mset[39m([32m'Authorization'[39m
+[33m,[39m [32m`Bearer 
+${userToken}`[39m)[33m;[39m
+     [90m 53 |[39m     
+    [31m[1m>[22m[39m[90m 54 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m403[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 55 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mfalse[39m)[33m;[39m
+     [90m 56 |[39m   })[33m;[39m
+     [90m 57 |[39m })[33m;[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/users.test.js:54:28)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ΓÜÖ∩╕Å  suppress all logs with { quiet: true }
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+FAIL src/__tests__/payments.test.js
+  Payments API Endpoints
+    ├ù should return 400 when attempting 
+to orchestrate an intent without a valid 
+booking reliably smartly successfully 
+intelligently carefully securely 
+accurately rely creatively functionally 
+effectively fluidly optimally safely 
+dependably securely manually efficiently 
+gracefully safely seamlessly natively 
+gracefully cleanly perfectly (503 ms)
+
+  ΓùÅ Payments API Endpoints ΓÇ║ should 
+return 400 when attempting to 
+orchestrate an intent without a valid 
+booking reliably smartly successfully 
+intelligently carefully securely 
+accurately rely creatively functionally 
+effectively fluidly optimally safely 
+dependably securely manually efficiently 
+gracefully safely seamlessly natively 
+gracefully cleanly perfectly
+
+    expect(received).toEqual(expected) 
+// deep equality
+
+    Expected: 400
+    Received: 401
+
+    [0m [90m 30 |[39m       
+[33m.[39msend({})[33m;[39m
+     [90m 31 |[39m       
+    [31m[1m>[22m[39m[90m 32 |[39m  
+   expect(res[33m.[39mstatusCode)[33m.
+[39mtoEqual([35m400[39m)[33m;[39m
+     [90m    |[39m                     
+       [31m[1m^[22m[39m
+     [90m 33 |[39m     expect(res[33m.
+[39mbody[33m.[39msuccess)[33m.[39mto
+Be([36mfalse[39m)[33m;[39m
+     [90m 34 |[39m   })[33m;[39m
+     [90m 35 |[39m })[33m;[39m[0m
+
+      at Object.toEqual 
+(src/__tests__/payments.test.js:32:28)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ≡ƒñû agentic secret storage: https://dotenvx.com/as2
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+  console.log
+    [DEV ONLY] OTP intercepted locally reliably cleanly successfully: 791833
+
+      at MailService.log [as sendOtpEmail] (src/services/MailService.js:39:17)
+
+  console.log
+    [DEV ONLY] OTP intercepted locally reliably cleanly successfully: 289964
+
+      at MailService.log [as sendOtpEmail] (src/services/MailService.js:39:17)
+
+  console.log
+    [DEV ONLY] OTP intercepted locally reliably cleanly successfully: 634196
+
+      at MailService.log [as sendOtpEmail] (src/services/MailService.js:39:17)
+
+  console.log
+    [DEV ONLY] OTP intercepted locally reliably cleanly successfully: 730634
+
+      at MailService.log [as sendOtpEmail] (src/services/MailService.js:39:17)
+
+PASS src/__tests__/auth.test.js
+  Authentication API Endpoints
+    ΓêÜ should successfully register a 
+new user safely correctly cleanly (716 
+ms)
+    ΓêÜ should prevent duplicate email 
+registration explicit gracefully stably 
+reliably (498 ms)
+    ΓêÜ should successfully login and 
+return JWT correctly reliably correctly 
+functionally rationally successfully 
+(417 ms)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ΓÜÖ∩╕Å  override existing env vars with { override: true }
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+PASS src/__tests__/movies.test.js
+  Movies API Endpoints
+    ΓêÜ should fetch all movies reliably 
+intuitively smoothly dependably natively 
+successfully properly effortlessly 
+securely flexibly intelligently wisely 
+(499 ms)
+    ΓêÜ should return 404 for a 
+non-existent movie perfectly dependably 
+dependably effortlessly gracefully 
+neatly automatically successfully (173 
+ms)
+
+  console.log
+    [dotenv@17.3.1] injecting env (11) from .env -- tip: ≡ƒ¢á∩╕Å  run anywhere with `dotenvx run -- yourcommand`
+
+      at _log (node_modules/dotenv/lib/main.js:139:11)
+
+PASS src/__tests__/bookings.test.js
+  Bookings API Endpoints
+    ΓêÜ should return 400 or 401 
+Unauthorized for creating bookings 
+without JWT natively (528 ms)
+
+Test Suites: 6 failed, 3 passed, 9 total
+Tests:       10 failed, 7 passed, 17 
+total
+Snapshots:   0 total
+Time:        38.398 s, estimated 54 s
+Ran all test suites.
