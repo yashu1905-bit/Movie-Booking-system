@@ -18,11 +18,6 @@ A sleek, Vuexy-inspired React Single Page Application (built with Vite) that pro
 * **Core Functionalities:** Deep administrative CRUD operations for controlling the Movie catalog, Theater mappings, and System-wide Configuration features globally.
 * **Testing:** Robust component, structural, and integration validations natively executed utilizing Vitest and React Testing Library.
 
-## 3. Mobile Customer Application (`/app`)
-A beautiful, cross-platform consumer application natively built utilizing React Native and Expo SDK 55.
-* **Navigation:** Complex multi-stack bottom tab routing layouts connecting the Discovery Home, Search, Interactive Tickets, and User Profile architectures naturally.
-* **Interactivity:** Fluid seat selection grids resolving directly back securely to the Backend's concurrency-safe allocation handlers.
-* **Testing:** Comprehensive React Native Jest environment pipelines validating precise user navigation paths without Expo binary interruptions.
 
 ## Getting Started
 
@@ -40,9 +35,84 @@ Each application workspace contains its own localized `README.md` and `package.j
    npm install
    npm run dev
    ```
-3. **Launch the Mobile Consumer Environment:**
-   ```bash
-   cd app
-   npm install
-   npm start
-   ```
+🎬 Movie Booking System
+
+An online movie ticket booking platform where users can browse movies, view show timings, select seats, and book tickets easily.
+This project is built to provide a smooth and user-friendly movie booking experience similar to platforms like BookMyShow. Inspired by modern movie ticket booking systems and MERN-based cinema platforms.
+
+🚀 Features
+🔐 User Authentication & Authorization
+🎥 Browse Latest Movies
+🕒 Show Timing Management
+💺 Seat Selection System
+🎟️ Ticket Booking Functionality
+📱 Responsive UI
+🛠️ Admin Dashboard
+📂 Movie & Theater Management
+💳 Booking Confirmation
+🛠️ Tech Stack
+Frontend
+React.js
+Tailwind CSS / CSS
+Axios
+Backend
+Node.js
+Express.js
+Database
+MongoDB
+Other Tools
+JWT Authentication
+Git & GitHub
+📁 Project Structure
+Movie-Booking-system/
+│
+├── client/          # Frontend
+├── server/          # Backend
+├── package.json
+├── README.md
+└── .gitignore
+⚙️ Installation & Setup
+1️⃣ Clone Repository
+git clone https://github.com/yashu1905-bit/Movie-Booking-system.git
+2️⃣ Move into Project Folder
+cd Movie-Booking-system
+🔥 Backend Setup
+cd server
+npm install
+npm run dev
+🎨 Frontend Setup
+cd client
+npm install
+npm start
+🌐 Environment Variables
+
+Create a .env file inside the server folder and add:
+
+PORT=5000
+MONGO_URI=your_mongodb_connection
+JWT_SECRET=your_secret_key
+📸 Screenshots
+
+Add your project screenshots here.
+
+Example:
+
+![Home Page](./screenshots/home.png)
+🎯 Future Improvements
+🎫 Online Payment Integration
+📧 Email Notifications
+📱 Mobile App Version
+⭐ Movie Reviews & Ratings
+🎥 Trailer Integration
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+Create a new branch
+Commit your changes
+Push to your branch
+Open a Pull Request
+📄 License
+
+This project is licensed under the MIT License.
